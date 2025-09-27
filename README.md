@@ -18,8 +18,8 @@ LLM (Large Language Model): AI trained on large text datasets to understand lang
 Output images
 
 ![WhatsApp Image 2025-09-27 at 23 39 06_0200805f](https://github.com/user-attachments/assets/783a3190-a404-4205-bad8-f802b0756a69)
-![WhatsApp Image 2025-09-27 at 23 39 07_001bc1bb](https://github.com/user-attachments/assets/327b4212-a320-450b-b6e1-f51f4a66de81)
 ![WhatsApp Image 2025-09-27 at 23 39 07_7ccbd60e](https://github.com/user-attachments/assets/f3ccd683-feb7-4ba1-863e-6541827de927)
+![WhatsApp Image 2025-09-27 at 23 39 07_001bc1bb](https://github.com/user-attachments/assets/327b4212-a320-450b-b6e1-f51f4a66de81)
 ![WhatsApp Image 2025-09-27 at 23 39 07_46951930](https://github.com/user-attachments/assets/4d326a17-5c30-401b-8f62-ef38ed00c5a6)
 ![WhatsApp Image 2025-09-27 at 23 39 07_b4bfb7c1](https://github.com/user-attachments/assets/efc7cb4a-2de1-44fa-a844-665b01b6eb2f)
 ![WhatsApp Image 2025-09-27 at 23 39 08_8b9c4095](https://github.com/user-attachments/assets/ceb8ee64-f55b-4dd0-bb65-992701a360a7)
